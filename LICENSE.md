@@ -1,4 +1,4 @@
-# 
+# Código abierto Dify extensiones. Con asistente de voz y computación en el borde — optimizado para el máximo rendimiento y eficiencia.
 
 
 
